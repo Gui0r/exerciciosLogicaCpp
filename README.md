@@ -1,0 +1,2 @@
+# exerciciosLogicaCpp
+Exercicios
